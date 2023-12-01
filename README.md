@@ -31,4 +31,4 @@ Untuk menjalankan script dari skenario dari yang sudah dibuat cukup ketik perint
 
 
 > [!NOTE]
-> Mohon maaf jika chalengge ini belum sampai berhasil untuk run test skenarionya karena masih terdapat error yang masih dicari solusinya 
+> Mohon maaf jika challenge ini belum sampai berhasil untuk run test skenarionya karena masih terdapat error yang masih dicari solusinya 
